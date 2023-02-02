@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/-Microsoft Visual Studio-5C2D91.svg?logo=visual-studio&style=plastic" height="25">
 </a>
 <a href="https://visualstudio.microsoft.com/ja/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/-Visual Basic .NET-5C2D91.svg?logo=.net&style=plastic" height="25">
+<img src="https://img.shields.io/badge/-Visual Basic .NET-512BD4.svg?logo=.net&style=plastic" height="25">
 </a>
 <a href="https://visualstudio.microsoft.com/ja/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-C Sharp-239120.svg?logo=csharp&style=plastic" height="25">
