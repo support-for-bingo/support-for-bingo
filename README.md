@@ -72,7 +72,12 @@
 [![](https://raw.githubusercontent.com/support-for-bingo/support-for-bingo/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/support-for-bingo/support-for-bingo/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/support-for-bingo/support-for-bingo/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=support-for-bingo&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=support-for-bingo&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=support-for-bingo&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=support-for-bingo&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=support-for-bingo&theme=nord_bright&utcOffset=-9)
+[ソース作成ページ](https://github-profile-summary-cards.vercel.app/demo.html)
 
 ### [:chart_with_upwards_trend: Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=support-for-bingo&theme=graywhite)
