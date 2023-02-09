@@ -67,11 +67,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=support-for-bingo&theme=flat&column=7)](https://github.com/support-for-bingo/github-profile-trophy)
 
 ### [:chart_with_upwards_trend: Github Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![](https://raw.githubusercontent.com/support-for-bingo/support-for-bingo/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- [![](https://raw.githubusercontent.com/support-for-bingo/support-for-bingo/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/support-for-bingo/support-for-bingo/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/support-for-bingo/support-for-bingo/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/support-for-bingo/support-for-bingo/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/support-for-bingo/support-for-bingo/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/support-for-bingo/support-for-bingo/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=support-for-bingo&theme=nord_bright&utcOffset=-9)
 
 ### [:chart_with_upwards_trend: Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=support-for-bingo&theme=graywhite)
