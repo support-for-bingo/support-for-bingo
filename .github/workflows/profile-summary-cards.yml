@@ -3,13 +3,13 @@ name: GitHub-Profile-Summary-Cards
 on:
   schedule:
     # Runs at 4pm JST
-    - cron: '0 7 * * *'
+    - cron: "0 7 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
+    name: generate
 
     steps:
       - uses: actions/checkout@v2
