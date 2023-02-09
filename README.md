@@ -76,7 +76,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=support-for-bingo&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=support-for-bingo&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=support-for-bingo&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=support-for-bingo&theme=nord_bright&utcOffset=-9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=support-for-bingo&theme=nord_bright&utcOffset=9)
 [ソース作成ページ](https://github-profile-summary-cards.vercel.app/demo.html)
 
 ### [:chart_with_upwards_trend: Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
