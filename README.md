@@ -55,10 +55,6 @@
 
 ## :stars:リポジトリ(:arrow_down:プログラムソース確認はこちら:arrow_down:)  
 [![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=support-for-bingo&repo=ShohinDesktopAdoNet&bg_color=e8e8e8)](https://github.com/support-for-bingo/ShohinDesktopAdoNet)
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=support-for-bingo&repo=ShohinDesktopJdbc&bg_color=e8e8e8)](https://github.com/support-for-bingo/ShohinDesktopJdbc)
-[![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=support-for-bingo&repo=HibernateDesktopSqlSvr&bg_color=e8e8e8)](https://github.com/support-for-bingo/HibernateDesktopSqlSvr)
-[![Repo5](https://github-readme-stats.vercel.app/api/pin/?username=support-for-bingo&repo=SpBootMvcPostgres&bg_color=e8e8e8)](https://github.com/fujio-development/SpBootMvcPostgres)
-[![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=support-for-bingo&repo=Electric&bg_color=e8e8e8)](https://github.com/support-for-bingo/Electric)
 
 ***
 
