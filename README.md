@@ -55,7 +55,8 @@
 
 ## :stars:リポジトリ(:arrow_down:プログラムソース確認はこちら:arrow_down:)  
 [![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=support-for-bingo&repo=AdoNetDesktopVb&bg_color=e8e8e8)](https://github.com/support-for-bingo/AdoNetDesktopVb)
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=support-for-bingo&repo=SpBootMvcPostgres&bg_color=e8e8e8)](https://github.com/support-for-bingo/SpBootMvcPostgres)
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=support-for-bingo&repo=EntityDesktopSqlSvr&bg_color=e8e8e8)](https://github.com/support-for-bingo/EntityDesktopSqlSvr)
+[![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=support-for-bingo&repo=SpBootMvcPostgres&bg_color=e8e8e8)](https://github.com/support-for-bingo/SpBootMvcPostgres)
 ***
 
 ## ステータス  
